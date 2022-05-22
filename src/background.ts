@@ -1,4 +1,4 @@
-let enabled = false;
+let enabled = true;
 
 const IMAGES_DIR = __dirname + "images/";
 const ON_ICON = IMAGES_DIR + "icon16_on.png";

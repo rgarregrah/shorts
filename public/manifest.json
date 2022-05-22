@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "short",
+    "short_name": "short",
+    "description": "",
+    "version": "0.0.1",
+    "icons": { "48": "images/icon48.png" },
+    "action": {
+        "default_icon": "images/icon16_off.png"
+    },
+    "content_scripts": [],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
